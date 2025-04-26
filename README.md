@@ -23,14 +23,14 @@
 ---
 
 ## 🌎 Vamos nos conectar | Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorrib00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorrib01)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:vvictorrib@gmail.com)
 
 ---
 
 ## 📈 Estatísticas do GitHub | GitHub Stats
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrib00&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrib00&layout=compact&theme=default)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrib01&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrib01&layout=compact&theme=default)
 
 ---
 
