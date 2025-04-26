@@ -29,7 +29,6 @@
 ---
 
 ## 📈 Estatísticas do GitHub | GitHub Stats
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrib01&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrib01&layout=compact&theme=default)
 
 ---
