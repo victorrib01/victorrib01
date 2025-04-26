@@ -1,6 +1,6 @@
 # Hey there, I'm Victor Ribeiro! 👨‍💻🚀
 
-![Victor's Banner](https://your-custom-banner-link.com/banner.png)
+<!-- ![Victor's Banner](https://your-custom-banner-link.com/banner.png) -->
 
 🇧🇷 / 🇺🇸 Desenvolvedor Full-Stack | Full-Stack Developer | Cloud Enthusiast
 
