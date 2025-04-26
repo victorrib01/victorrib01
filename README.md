@@ -1,37 +1,70 @@
+# Hey there, I'm Victor Ribeiro! 👨‍💻🚀
 
-# Hey! I'm Victor Ribeiro 👨‍💻🚀
+![Victor's Banner](https://your-custom-banner-link.com/banner.png)
 
-🇧🇷 / 🇺🇸 Desenvolvedor Full-Stack | Full-Stack Developer
-
-### 🔥 Entusiasta de tecnologia, apaixonado por criar soluções digitais incríveis!
-### 🔥 Tech enthusiast, passionate about building awesome digital solutions!
-
-- 🧠 Atualmente estudando mais sobre Arquitetura Cloud Native e DevOps.
-- 🧠 Currently learning more about Cloud Native Architecture and DevOps.
-
-- ✨ Experiência com Node.js | ReactJS | React Native | MongoDB | GCP.
-- ✨ Experienced with Node.js | ReactJS | React Native | MongoDB | GCP.
-
-- 💬 Sempre aberto para networking, mentorias e troca de conhecimento.
-- 💬 Always open to networking, mentorship, and sharing knowledge.
+🇧🇷 / 🇺🇸 Desenvolvedor Full-Stack | Full-Stack Developer | Cloud Enthusiast
 
 ---
 
-## 🛠️ Tecnologias que utilizo | Technologies I work with
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,mongodb,postgres,docker,aws,gcp,html,css)
+## 🚀 About Me | Sobre Mim
+
+- 🧑‍💻 Full-Stack Developer with 6+ years of experience delivering scalable web and mobile solutions.
+- 🔥 Specialized in **Node.js**, **ReactJS**, **React Native**, **MongoDB**, **PostgreSQL**.
+- ☁️ Cloud enthusiast: working with **Google Cloud Platform (GCP)** and **AWS Amplify**.
+- 🛠️ Passionate about clean code, scalable architecture, and developer experience.
+- 📚 Lifelong learner: currently diving deeper into **DevOps**, **NestJS**, and **Cloud Native** architecture.
 
 ---
 
-## 🌎 Vamos nos conectar | Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorrib01)
+## 🛠️ Technologies I Work With | Tecnologias
+
+![My Skills](https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,javascript,mongodb,postgres,docker,aws,gcp,html,css)
+
+---
+
+## 📈 GitHub Stats | Estatísticas do GitHub
+
+<details>
+  <summary>📊 Click to expand | Clique para expandir</summary>
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrib01&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrib01&layout=compact&theme=default)
+
+</details>
+
+---
+
+## ✨ Highlighted Projects | Projetos em Destaque
+
+- [**Economax**](https://financialapp.victorrib.com.br) – Financial control app (React Native & Web)
+- [**Petfood**](https://github.com/victorrib01/petfood) – E-commerce platform with payment integrations (React.js, Node.js)
+- [**Memories**](https://github.com/victorrib01/memories-socialapp-frontend) – Social media app using the MERN stack
+
+---
+
+<!-- ## 📝 Latest Blog Posts | Últimos Posts no Blog -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - *Coming soon: Automatic blog feed integration!* -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- --- -->
+
+## 🌎 Let's Connect | Vamos nos conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorrib01)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:vvictorrib@gmail.com)
 
 ---
 
-## 📈 Estatísticas do GitHub | GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrib01&layout=compact&theme=default)
+## 🎯 Fun Facts | Curiosidades
+
+- 🎮 Gamer on weekends, passionate about RPGs and FPS.
+- 🏍️ Motorcycle enthusiast – rides across São Paulo discovering new places.
+- 📚 Constant learner: Always experimenting with new frameworks and cloud tech.
 
 ---
 
-> 🎯 “Consistência vence talento toda vez.” – Vamos construir coisas incríveis!  
-> 🎯 “Consistency beats talent every time.” – Let's build amazing things!
+> 🎯 "Consistency beats talent every time."
+
+🚀 Let's build amazing things together!
